@@ -1,5 +1,5 @@
 # phaser-playads
-### just run index.html for start 
+### Just run index.html for start 
 ### Phaser v2 
-### my first game with Phaser
-
+### My first game with Phaser
+## Play test here - https://dimati9.github.io/phaser-playads/index.html
